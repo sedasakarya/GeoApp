@@ -1,5 +1,5 @@
 {
-  "serverMaxRevisionCounter": 2,
+  "serverMaxRevisionCounter": 4,
   "sourceMembers": {
     "Profile__Admin": {
       "serverRevisionCounter": 1,
@@ -11,6 +11,18 @@
       "serverRevisionCounter": 2,
       "lastRetrievedFromServer": 2,
       "memberType": "ApexClass",
+      "isNameObsolete": false
+    },
+    "AuraDefinitionBundle__AccountsLoaded": {
+      "serverRevisionCounter": 3,
+      "lastRetrievedFromServer": 3,
+      "memberType": "AuraDefinitionBundle",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__AccountsLoaded/AccountsLoaded.evt": {
+      "serverRevisionCounter": 4,
+      "lastRetrievedFromServer": 4,
+      "memberType": "AuraDefinition",
       "isNameObsolete": false
     }
   }
