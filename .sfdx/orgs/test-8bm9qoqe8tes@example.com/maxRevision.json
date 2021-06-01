@@ -1,5 +1,5 @@
 {
-  "serverMaxRevisionCounter": 40,
+  "serverMaxRevisionCounter": 49,
   "sourceMembers": {
     "Profile__Admin": {
       "serverRevisionCounter": 1,
@@ -184,6 +184,60 @@
     "AuraDefinition__AccountMap/AccountMap.svg": {
       "serverRevisionCounter": 40,
       "lastRetrievedFromServer": 40,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinitionBundle__AccountLocator": {
+      "serverRevisionCounter": 41,
+      "lastRetrievedFromServer": 41,
+      "memberType": "AuraDefinitionBundle",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__AccountLocator/AccountLocator.cmp": {
+      "serverRevisionCounter": 42,
+      "lastRetrievedFromServer": 42,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__AccountLocator/AccountLocatorController.js": {
+      "serverRevisionCounter": 43,
+      "lastRetrievedFromServer": 43,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__AccountLocator/AccountLocatorHelper.js": {
+      "serverRevisionCounter": 44,
+      "lastRetrievedFromServer": 44,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__AccountLocator/AccountLocator.css": {
+      "serverRevisionCounter": 45,
+      "lastRetrievedFromServer": 45,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__AccountLocator/AccountLocator.auradoc": {
+      "serverRevisionCounter": 46,
+      "lastRetrievedFromServer": 46,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__AccountLocator/AccountLocatorRenderer.js": {
+      "serverRevisionCounter": 47,
+      "lastRetrievedFromServer": 47,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__AccountLocator/AccountLocator.design": {
+      "serverRevisionCounter": 48,
+      "lastRetrievedFromServer": 48,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__AccountLocator/AccountLocator.svg": {
+      "serverRevisionCounter": 49,
+      "lastRetrievedFromServer": 49,
       "memberType": "AuraDefinition",
       "isNameObsolete": false
     }

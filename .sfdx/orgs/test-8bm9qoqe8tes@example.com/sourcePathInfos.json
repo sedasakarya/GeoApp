@@ -2,23 +2,24 @@
   "/Users/sedasakarya/geolocation/GeoApp/force-app": {
     "sourcePath": "/Users/sedasakarya/geolocation/GeoApp/force-app",
     "isDirectory": true,
-    "size": 96,
-    "modifiedTime": 1622125175446,
-    "changeTime": 1622184916419,
-    "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+    "size": 128,
+    "modifiedTime": 1622538798539,
+    "changeTime": 1622538798539,
+    "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
     "state": "u",
-    "isArtifactRoot": true,
-    "package": "force-app"
+    "package": "force-app",
+    "deferContentHash": true
   },
   "/Users/sedasakarya/geolocation/GeoApp/force-app/main": {
     "sourcePath": "/Users/sedasakarya/geolocation/GeoApp/force-app/main",
     "isDirectory": true,
-    "size": 96,
-    "modifiedTime": 1622125175446,
-    "changeTime": 1622184821647,
-    "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+    "size": 128,
+    "modifiedTime": 1622538803551,
+    "changeTime": 1622538803551,
+    "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
     "state": "u",
-    "package": "force-app"
+    "package": "force-app",
+    "deferContentHash": true
   },
   "/Users/sedasakarya/geolocation/GeoApp/force-app/main/default": {
     "sourcePath": "/Users/sedasakarya/geolocation/GeoApp/force-app/main/default",
@@ -43,10 +44,10 @@
   "/Users/sedasakarya/geolocation/GeoApp/force-app/main/default/aura": {
     "sourcePath": "/Users/sedasakarya/geolocation/GeoApp/force-app/main/default/aura",
     "isDirectory": true,
-    "size": 224,
-    "modifiedTime": 1622537877910,
-    "changeTime": 1622537877910,
-    "contentHash": "3a38f9dd3dbfd059110f3720cba4c2c6e03472fc",
+    "size": 256,
+    "modifiedTime": 1622538848335,
+    "changeTime": 1622538848335,
+    "contentHash": "79be0b7c3fbdab8d722871bd291da1d693c79412",
     "state": "u",
     "package": "force-app",
     "deferContentHash": true
@@ -512,6 +513,107 @@
     "size": 50,
     "modifiedTime": 1622537877912,
     "changeTime": 1622537877912,
+    "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "/Users/sedasakarya/geolocation/GeoApp/force-app/main/default/aura/AccountLocator": {
+    "sourcePath": "/Users/sedasakarya/geolocation/GeoApp/force-app/main/default/aura/AccountLocator",
+    "isDirectory": true,
+    "size": 352,
+    "modifiedTime": 1622538848337,
+    "changeTime": 1622538848337,
+    "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5",
+    "state": "u",
+    "package": "force-app"
+  },
+  "/Users/sedasakarya/geolocation/GeoApp/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc": {
+    "sourcePath": "/Users/sedasakarya/geolocation/GeoApp/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
+    "size": 209,
+    "modifiedTime": 1622538848336,
+    "changeTime": 1622538848336,
+    "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "/Users/sedasakarya/geolocation/GeoApp/force-app/main/default/aura/AccountLocator/AccountLocator.cmp": {
+    "sourcePath": "/Users/sedasakarya/geolocation/GeoApp/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+    "size": 811,
+    "modifiedTime": 1622538988378,
+    "changeTime": 1622538988378,
+    "contentHash": "ee9c7310198d7d75604f7aef7e1b02e82896dc19",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "/Users/sedasakarya/geolocation/GeoApp/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml": {
+    "sourcePath": "/Users/sedasakarya/geolocation/GeoApp/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+    "size": 228,
+    "modifiedTime": 1622538848336,
+    "changeTime": 1622538848336,
+    "contentHash": "a1fbde248738447e01579a45df4f119d4b607fc8",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "/Users/sedasakarya/geolocation/GeoApp/force-app/main/default/aura/AccountLocator/AccountLocator.css": {
+    "sourcePath": "/Users/sedasakarya/geolocation/GeoApp/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+    "size": 10,
+    "modifiedTime": 1622538848336,
+    "changeTime": 1622538848336,
+    "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "/Users/sedasakarya/geolocation/GeoApp/force-app/main/default/aura/AccountLocator/AccountLocator.design": {
+    "sourcePath": "/Users/sedasakarya/geolocation/GeoApp/force-app/main/default/aura/AccountLocator/AccountLocator.design",
+    "size": 40,
+    "modifiedTime": 1622538848336,
+    "changeTime": 1622538848336,
+    "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "/Users/sedasakarya/geolocation/GeoApp/force-app/main/default/aura/AccountLocator/AccountLocator.svg": {
+    "sourcePath": "/Users/sedasakarya/geolocation/GeoApp/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
+    "size": 664,
+    "modifiedTime": 1622538848337,
+    "changeTime": 1622538848337,
+    "contentHash": "6a3a9c1d5556db4bde25af9ef0957c47feb17739",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "/Users/sedasakarya/geolocation/GeoApp/force-app/main/default/aura/AccountLocator/AccountLocatorController.js": {
+    "sourcePath": "/Users/sedasakarya/geolocation/GeoApp/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+    "size": 65,
+    "modifiedTime": 1622538848337,
+    "changeTime": 1622538848337,
+    "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "/Users/sedasakarya/geolocation/GeoApp/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js": {
+    "sourcePath": "/Users/sedasakarya/geolocation/GeoApp/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+    "size": 45,
+    "modifiedTime": 1622538848337,
+    "changeTime": 1622538848337,
+    "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "/Users/sedasakarya/geolocation/GeoApp/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js": {
+    "sourcePath": "/Users/sedasakarya/geolocation/GeoApp/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+    "size": 50,
+    "modifiedTime": 1622538848337,
+    "changeTime": 1622538848337,
     "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
     "state": "u",
     "package": "force-app",
