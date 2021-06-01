@@ -1,5 +1,5 @@
 {
-  "serverMaxRevisionCounter": 31,
+  "serverMaxRevisionCounter": 40,
   "sourceMembers": {
     "Profile__Admin": {
       "serverRevisionCounter": 1,
@@ -130,6 +130,60 @@
     "AuraDefinition__AccountList/AccountList.svg": {
       "serverRevisionCounter": 31,
       "lastRetrievedFromServer": 31,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinitionBundle__AccountMap": {
+      "serverRevisionCounter": 32,
+      "lastRetrievedFromServer": 32,
+      "memberType": "AuraDefinitionBundle",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__AccountMap/AccountMap.cmp": {
+      "serverRevisionCounter": 33,
+      "lastRetrievedFromServer": 33,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__AccountMap/AccountMapController.js": {
+      "serverRevisionCounter": 34,
+      "lastRetrievedFromServer": 34,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__AccountMap/AccountMapHelper.js": {
+      "serverRevisionCounter": 35,
+      "lastRetrievedFromServer": 35,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__AccountMap/AccountMap.css": {
+      "serverRevisionCounter": 36,
+      "lastRetrievedFromServer": 36,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__AccountMap/AccountMap.auradoc": {
+      "serverRevisionCounter": 37,
+      "lastRetrievedFromServer": 37,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__AccountMap/AccountMapRenderer.js": {
+      "serverRevisionCounter": 38,
+      "lastRetrievedFromServer": 38,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__AccountMap/AccountMap.design": {
+      "serverRevisionCounter": 39,
+      "lastRetrievedFromServer": 39,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__AccountMap/AccountMap.svg": {
+      "serverRevisionCounter": 40,
+      "lastRetrievedFromServer": 40,
       "memberType": "AuraDefinition",
       "isNameObsolete": false
     }
