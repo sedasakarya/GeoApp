@@ -18,16 +18,15 @@
     "changeTime": 1622538803551,
     "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
     "state": "u",
-    "package": "force-app",
-    "deferContentHash": true
+    "package": "force-app"
   },
   "/Users/sedasakarya/geolocation/GeoApp/force-app/main/default": {
     "sourcePath": "/Users/sedasakarya/geolocation/GeoApp/force-app/main/default",
     "isDirectory": true,
-    "size": 448,
-    "modifiedTime": 1622125175488,
-    "changeTime": 1622184821647,
-    "contentHash": "134fb9100108b9aaba9aee713cf235d514fd8f88",
+    "size": 480,
+    "modifiedTime": 1622549704762,
+    "changeTime": 1622549704762,
+    "contentHash": "2420936b22f3c881de460db5ee082d43dff6db91",
     "state": "u",
     "package": "force-app"
   },
@@ -49,8 +48,7 @@
     "changeTime": 1622538848335,
     "contentHash": "79be0b7c3fbdab8d722871bd291da1d693c79412",
     "state": "u",
-    "package": "force-app",
-    "deferContentHash": true
+    "package": "force-app"
   },
   "/Users/sedasakarya/geolocation/GeoApp/force-app/main/default/classes": {
     "sourcePath": "/Users/sedasakarya/geolocation/GeoApp/force-app/main/default/classes",
@@ -136,10 +134,10 @@
   "/Users/sedasakarya/geolocation/GeoApp/force-app/main/default/permissionsets": {
     "sourcePath": "/Users/sedasakarya/geolocation/GeoApp/force-app/main/default/permissionsets",
     "isDirectory": true,
-    "size": 64,
-    "modifiedTime": 1622125175446,
-    "changeTime": 1622184821645,
-    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "size": 96,
+    "modifiedTime": 1622549704770,
+    "changeTime": 1622549704770,
+    "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
     "state": "u",
     "package": "force-app"
   },
@@ -156,10 +154,10 @@
   "/Users/sedasakarya/geolocation/GeoApp/force-app/main/default/tabs": {
     "sourcePath": "/Users/sedasakarya/geolocation/GeoApp/force-app/main/default/tabs",
     "isDirectory": true,
-    "size": 64,
-    "modifiedTime": 1622125175446,
-    "changeTime": 1622184821645,
-    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "size": 96,
+    "modifiedTime": 1622549704758,
+    "changeTime": 1622549704758,
+    "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f",
     "state": "u",
     "package": "force-app"
   },
@@ -303,8 +301,7 @@
     "contentHash": "b98370d856981bf5ebd68b5b41729b5aa46c5830",
     "state": "u",
     "package": "force-app",
-    "metadataType": "AuraDefinitionBundle",
-    "deferContentHash": true
+    "metadataType": "AuraDefinitionBundle"
   },
   "/Users/sedasakarya/geolocation/GeoApp/force-app/main/default/aura/AccountSearch/AccountSearchRenderer.js": {
     "sourcePath": "/Users/sedasakarya/geolocation/GeoApp/force-app/main/default/aura/AccountSearch/AccountSearchRenderer.js",
@@ -618,5 +615,81 @@
     "state": "u",
     "package": "force-app",
     "metadataType": "AuraDefinitionBundle"
+  },
+  "/Users/sedasakarya/geolocation/GeoApp/force-app/": {
+    "sourcePath": "/Users/sedasakarya/geolocation/GeoApp/force-app/",
+    "isDirectory": true,
+    "size": 128,
+    "modifiedTime": 1622538798539,
+    "changeTime": 1622538798539,
+    "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
+    "state": "u",
+    "isArtifactRoot": true,
+    "package": "force-app"
+  },
+  "/Users/sedasakarya/geolocation/GeoApp/force-app/main/default/profiles": {
+    "sourcePath": "/Users/sedasakarya/geolocation/GeoApp/force-app/main/default/profiles",
+    "isDirectory": true,
+    "size": 160,
+    "modifiedTime": 1622549704769,
+    "changeTime": 1622549704769,
+    "contentHash": "f4204eb1656efea8c3733cf8481ab7fd4906f3b3",
+    "state": "u",
+    "package": "force-app"
+  },
+  "/Users/sedasakarya/geolocation/GeoApp/force-app/main/default/tabs/Account_Locator.tab-meta.xml": {
+    "sourcePath": "/Users/sedasakarya/geolocation/GeoApp/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+    "size": 293,
+    "modifiedTime": 1622549704758,
+    "changeTime": 1622549704758,
+    "contentHash": "d94dd78b6df98870c5070f966c0e935930786b52",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomTab"
+  },
+  "/Users/sedasakarya/geolocation/GeoApp/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml": {
+    "sourcePath": "/Users/sedasakarya/geolocation/GeoApp/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+    "size": 4691,
+    "modifiedTime": 1622549704763,
+    "changeTime": 1622549704763,
+    "contentHash": "9e3319ada6c776ee788b2e421b403676a64f9520",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "Profile"
+  },
+  "/Users/sedasakarya/geolocation/GeoApp/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml": {
+    "sourcePath": "/Users/sedasakarya/geolocation/GeoApp/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+    "size": 5029,
+    "modifiedTime": 1622549704769,
+    "changeTime": 1622549704769,
+    "contentHash": "11e51cc465f98ef8c99b2aac23ca72a065f34a42",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "Profile"
+  },
+  "/Users/sedasakarya/geolocation/GeoApp/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml": {
+    "sourcePath": "/Users/sedasakarya/geolocation/GeoApp/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+    "size": 397,
+    "modifiedTime": 1622549704770,
+    "changeTime": 1622549704770,
+    "contentHash": "86f5cbbb9da5c787ca3746bca58c87e33525bc16",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "PermissionSet"
+  },
+  "/Users/sedasakarya/geolocation/GeoApp/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml": {
+    "sourcePath": "/Users/sedasakarya/geolocation/GeoApp/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+    "size": 4691,
+    "modifiedTime": 1622549704766,
+    "changeTime": 1622549704766,
+    "contentHash": "9e3319ada6c776ee788b2e421b403676a64f9520",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "Profile"
   }
 }
