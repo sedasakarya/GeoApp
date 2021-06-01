@@ -1,5 +1,5 @@
 {
-  "serverMaxRevisionCounter": 4,
+  "serverMaxRevisionCounter": 22,
   "sourceMembers": {
     "Profile__Admin": {
       "serverRevisionCounter": 1,
@@ -22,6 +22,60 @@
     "AuraDefinition__AccountsLoaded/AccountsLoaded.evt": {
       "serverRevisionCounter": 4,
       "lastRetrievedFromServer": 4,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinitionBundle__AccountSearch": {
+      "serverRevisionCounter": 14,
+      "lastRetrievedFromServer": 14,
+      "memberType": "AuraDefinitionBundle",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__AccountSearch/AccountSearch.cmp": {
+      "serverRevisionCounter": 22,
+      "lastRetrievedFromServer": 22,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__AccountSearch/AccountSearchController.js": {
+      "serverRevisionCounter": 15,
+      "lastRetrievedFromServer": 15,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__AccountSearch/AccountSearchHelper.js": {
+      "serverRevisionCounter": 16,
+      "lastRetrievedFromServer": 16,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__AccountSearch/AccountSearch.css": {
+      "serverRevisionCounter": 17,
+      "lastRetrievedFromServer": 17,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__AccountSearch/AccountSearch.auradoc": {
+      "serverRevisionCounter": 18,
+      "lastRetrievedFromServer": 18,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__AccountSearch/AccountSearchRenderer.js": {
+      "serverRevisionCounter": 19,
+      "lastRetrievedFromServer": 19,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__AccountSearch/AccountSearch.design": {
+      "serverRevisionCounter": 20,
+      "lastRetrievedFromServer": 20,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__AccountSearch/AccountSearch.svg": {
+      "serverRevisionCounter": 21,
+      "lastRetrievedFromServer": 21,
       "memberType": "AuraDefinition",
       "isNameObsolete": false
     }
